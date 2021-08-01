@@ -5,7 +5,7 @@ remote desktop client written in GTK from the FreeRDP
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/remmina/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/remmina/raw/main/install.sh)"
 ```
 
 Manual install:
