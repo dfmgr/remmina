@@ -1,5 +1,5 @@
 [remmina_pref]
-secret=ALZPm+UsXuPgCyKiXnO1XlOneZAJ8xzzdxmYYZw6C50=
+secret=
 save_view_mode=true
 deny_screenshot_clipboard=true
 floating_toolbar_placement=0
@@ -18,7 +18,7 @@ ssh_parseconfig=true
 hide_toolbar=false
 small_toolbutton=false
 view_file_mode=0
-resolutions=640x480,800x600,1024x768,1152x864,1280x960,1400x1050
+resolutions=640x480,800x600,1024x768,1152x864,1280x960,1400x1050.1920x1080
 keystrokes=Send hello world§hello world\\n
 main_width=680
 main_height=400
